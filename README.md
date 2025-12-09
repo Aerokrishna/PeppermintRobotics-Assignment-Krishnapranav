@@ -40,7 +40,7 @@ Then you can run the python script by passing the start and goal coordinates as 
 python3 astar.py --start 0 0 --goal 4 4
 ```
 
-You will see an output on your terminal.
+You will see an output on your terminal with the path which is a list of x,y coordinates. If the start or goal position is invalid or out of bounds the function will return none.
 
 To use this in your project or script, you need to define your map. Which is a 2D array containing 0 for free space in your map and 1 for obstacles. You then initialize the class with the map. Then you can call the astar() function with your start and goal points wherever required.
 ```bash
