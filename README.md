@@ -1,6 +1,5 @@
 # Assignment
 
-https://github.com/user-attachments/assets/e92f76cc-014c-4996-85c7-08a7057edd26
 
 ## Problem Statement
 Implement A star algorithm to find a path from the start point to the goal point on a given map.
