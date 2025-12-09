@@ -1,6 +1,10 @@
 # Assignment
 
 
+https://github.com/user-attachments/assets/87d092d4-7b0e-4665-a463-c33d1159dc7f
+
+
+
 ## Problem Statement
 Implement A star algorithm to find a path from the start point to the goal point on a given map.
 Consider a 2D map below where 0 represents free space, and 1 represents an obstacle. 
